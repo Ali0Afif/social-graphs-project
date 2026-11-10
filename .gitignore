@@ -1,0 +1,8 @@
+food_com_recipes/
+*.csv
+validation_sample.csv
+fig_supp_degree.*
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
