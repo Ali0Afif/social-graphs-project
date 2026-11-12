@@ -3,6 +3,7 @@ food_com_recipes/
 validation_sample.csv
 fig_supp_degree.*
 fig_supp_null.*
+fig_supp_users.*
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
